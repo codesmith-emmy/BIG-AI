@@ -83,7 +83,8 @@ function App() {
         <div className="search-container">
           <input 
             type="text" 
-            className="search-input" 
+            className="search-input"
+            placeholder="Try 'What business niches are most profitable in Accra?'"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
           />
