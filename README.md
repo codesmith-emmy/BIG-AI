@@ -1,1 +1,2 @@
-To be updated soon!
+# BIG AI
+BIG AI (Business Idea Generator) is an AI-powered app that analyzes web data to suggest innovative business ideas and promising niches for entrepreneurs. It streamlines market research, saving time and providing data-driven insights to guide potential business owners in identifying lucrative opportunities.
